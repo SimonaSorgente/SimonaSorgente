@@ -32,3 +32,8 @@ Tools
 - Rstudio
 - Matlab
 
+You can find some of my works at the following links:
+https://github.com/avistocco6/pepper_shopping_assistant.git
+https://drive.google.com/drive/folders/1CsaoM5zckbCRV0Od48dujLUxZFLaTkOl?usp=sharing
+https://github.com/AlfonsoCavallo/Genetic-Programming-for-Alzheimer-Diagnosis
+https://drive.google.com/drive/folders/1LiypvoV9ubOLQ40IKpPXRNiKGry68tnd?usp=sharing
