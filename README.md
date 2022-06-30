@@ -2,7 +2,7 @@
 
 I'm currently attending the Artificial Intelligence curriculum (Computer Engineering master's degree) at the University of Salerno (UNISA). You can reach me on linkedin through the following link https://www.linkedin.com/in/simona-sorgente-65006a207/
 
-My Competences are:
+My competences are:
 
 Programming Languages
 - Java
