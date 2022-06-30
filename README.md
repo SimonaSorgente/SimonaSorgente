@@ -9,30 +9,30 @@ Competences
 During my studies i've learned to use:
 
 Programming Languages
-Java
-Python
-C
-R
+- Java
+- Python
+- C
+- R
 
 Frameworks
-RASA
-ROS
-Spark
-Hadoop
-STM32CubeIDE
+- RASA
+- ROS
+- Spark
+- Hadoop
+- STM32CubeIDE
 
 Versioning
-GitHub
+- GitHub
 
 Database
-SQL
+- SQL
 
 Tools
-PyCharm
-NetBeans
-Office Suite
-Google Colab
-Visual Studio Code
-Rstudio
-Matlab
+- PyCharm
+- NetBeans
+- Office Suite
+- Google Colab
+- Visual Studio Code
+- Rstudio
+- Matlab
 
