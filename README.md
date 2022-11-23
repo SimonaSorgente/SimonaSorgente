@@ -1,6 +1,7 @@
 ### Hi there, I'm Simona Sorgente 👋
 
-I'm currently attending the Artificial Intelligence curriculum (Computer Engineering master's degree) at the University of Salerno (UNISA). You can reach me on linkedin through the following link https://www.linkedin.com/in/simona-sorgente-65006a207/
+I'm a Computer Engineer specialized in Artificial Intelligence. 
+You can reach me on linkedin through the following link https://www.linkedin.com/in/simona-sorgente-65006a207/
 
 My competences are:
 
